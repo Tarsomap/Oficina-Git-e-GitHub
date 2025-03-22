@@ -1,3 +1,0 @@
-nome : caractere
-escreval("Digite seu nome: ")
-leia(nome)
